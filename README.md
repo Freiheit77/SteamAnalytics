@@ -20,12 +20,19 @@
     - Price
       
 2. Game reviews dataset
-    - SteamID
+    - SteamID 
     - NumGamesOwned
     - NumReviewsGiven
     - PlayTime
     - PlayTimeLastTwoWeeks
     - LastPlayTime
+    - Language
+    - Review
+    - TimeCreated
+    - VoteUp
+    - VoteFunny
+    - CommentCount
+    - SteamPurchase
 
 ## Models and Analytical techqniques
 
