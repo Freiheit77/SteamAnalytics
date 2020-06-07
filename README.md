@@ -1,9 +1,9 @@
 # SteamAnalytics
 
 ## Objective
-    1. Detected fake reviews
-    2. Conducted sentiment analysis and built topics model to analyze user reviews in some popular game genres
-    3. Developed game recommendation method based on product similarity and user similarity
+    1. Conduct sentiment analysis and build topics model to analyze user reviews in some popular game genres ()
+    2. Develop game recommendation method by calculting user similarity using Euclidean distance and cosine similarity
+    3. Detect fake reviews
 
 ## Data Description
 1. Game dataset
@@ -20,7 +20,8 @@
     - Price
       
 2. Game reviews dataset
-    - SteamID 
+    - SteamID
+    - ReviewID
     - NumGamesOwned
     - NumReviewsGiven
     - PlayTime
@@ -29,8 +30,10 @@
     - Language
     - Review
     - TimeCreated
+    - Recommended
     - VoteUp
     - VoteFunny
+    - WeightedVoteUpScore
     - CommentCount
     - SteamPurchase
 
