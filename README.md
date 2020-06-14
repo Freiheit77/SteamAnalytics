@@ -1,7 +1,7 @@
 # SteamAnalytics
 
 ## Objective
-    1. Conduct sentiment analysis and build topics model to analyze user reviews in some popular game genres ()
+    1. Conduct sentiment analysis and build topics model to analyze user reviews in three most popular game genres (Action-Adventure, Simulation, RPG)
     2. Develop game recommendation method by calculting user similarity using Euclidean distance and cosine similarity
     3. Detect fake reviews
 
